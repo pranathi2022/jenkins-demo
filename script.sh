@@ -4,4 +4,4 @@ date
 echo "Hello from Jenkins CI Pipeline!"
 echo "Build completed successfully."
 
-echo "New change from GitHub."
+echo "New change from GitHub"
