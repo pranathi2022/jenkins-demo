@@ -1,7 +1,13 @@
 #!/bin/bash
-echo "Build started..."
-date
-echo "Hello from Jenkins CI Pipeline!"
-echo "Build completed successfully."
+echo "=============================="
+echo " Jenkins Pipeline Build Start "
+echo "=============================="
 
-echo "New change from GitHub"
+date
+echo "Hello from Jenkins Pipeline!"
+echo "Build executed successfully"
+
+echo "=============================="
+echo " Build Completed "
+echo "=============================="
+
